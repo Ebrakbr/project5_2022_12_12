@@ -1,0 +1,15 @@
+[changes]
+ * Added support for the HTTP header Forward (RFC 7329) for use with reverse proxies.
+ 
+[changes:de]
+ * Unterstützung für den HTTP-Header Forward (RFC 7329) zur Verwendung mit Reverse Proxies wurde hinzugefügt.
+
+[bugfixes]
+
+[bugfixes:de]
+
+[security]
+* Added option to disable the "Stay logged in" feature for all users.
+
+[security:de]
+ * Option zur Deaktivierung der Funktion "Eingeloggt bleiben" für alle Benutzer hinzugefügt.

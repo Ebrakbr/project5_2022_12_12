@@ -1,0 +1,40 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <groupId>com.inet.shared</groupId>
+  <artifactId>inetcore</artifactId>
+  <name>BlendComposite and ColorUtils</name>
+  <description>A blend composite defines the rule according to which a drawing primitive (known as the source) is mixed with existing graphics (know as the destination.)
+
+ColorUtilities contains a set of tools to perform common color operations easily.</description>
+  <licenses>
+    <license>
+        <name>LGPL</name>
+        <url>http://www.gnu.org/licenses/lgpl.txt</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>sun</id>
+      <name>Sun</name>
+      <organization>Sun</organization>
+      <roles>
+        <role>Java Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <id>romainguy</id>
+      <name>Romain Guy</name>
+      <email>morgand@apache.org</email>
+      <roles>
+        <role>Java Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <id>inetsoftware</id>
+      <name>i-net /// software</name>
+      <email>contact@inetsoftware.de</email>
+      <roles>
+        <role>Java Developer</role>
+      </roles>
+    </developer>
+  </developers>
+</project>

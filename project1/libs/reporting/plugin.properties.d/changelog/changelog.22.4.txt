@@ -1,0 +1,25 @@
+[changes]
+ * Font replacement improved for 'HTML advanced' formatted text. The replacement works on character-level now, just like in other text types
+ * `TotalPageCount` is evaluatable in a trigger function
+ * Improvement of continuous charts
+  * added support for markers
+  * consider line style "None" to only show markers
+  * added support for combining of continuous charts with XY charts
+ 
+[changes:de]
+ * Die Schriftersetzung für *erweitertes HTML* formatierten Text wurde verbessert. Die Ersetzung funktioniert jetzt auf Zeichenebene, genau wie bei anderen Texttypen
+ * `totalPageCount` ist in einer Trigger-Funktion auswertbar
+ * Verbesserung von kontinuierlichen Diagrammen
+  * Unterstützung für Marker hinzugefügt
+  * Berücksichtigung des Linienstils "Keine", um nur Marker anzuzeigen
+  * Unterstützung für die Kombination von kontinuierlichen Diagrammen mit XY-Diagrammen hinzugefügt
+
+[bugfixes]
+ * Fixed a `NullPointerException` printed to the console when logging is disabled
+
+[bugfixes:de]
+ * `NullPointerException` behoben, die auf der Konsole ausgegeben wurde, wenn die Protokollierung deaktiviert war
+
+[security]
+
+[security:de]

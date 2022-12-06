@@ -1,0 +1,19 @@
+[changes]
+
+[changes:de]
+
+[bugfixes]
+ * Fixed a bug breaking the User Manager web interface if the country of the server is not valid.
+ * Fixed a bug with searching digits and number data types which has produce the error: `IllegalArgumentException: Empty left and right operand in search condition`
+ * Fixed a deadlock with OpenJ9 Java VM when starting the server via API.
+
+[bugfixes:de]
+ * Es wurde ein Fehler behoben, der die Webschnittstelle des Benutzermanagers beschädigte, wenn das Land des Servers nicht gültig war.
+ * Es wurde ein Fehler bei der Suche nach Ziffern und Zahlendatentypen behoben, der die Fehlermeldung `IllegalArgumentException: Empty left and right operand in search condition`
+ * Behebung eines Deadlocks mit OpenJ9 Java VM beim Starten des Servers über API.
+
+[security]
+* Fixed a thread bug that allowed a user to run single requests in another users security context.
+
+[security:de]
+* Ein Thread-Fehler wurde behoben, der es einem Benutzer ermöglichte, einzelne Anfragen im Sicherheitskontext eines anderen Benutzers auszuführen.

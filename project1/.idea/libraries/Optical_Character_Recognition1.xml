@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Optical-Character-Recognition1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/Optical-Character-Recognition.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

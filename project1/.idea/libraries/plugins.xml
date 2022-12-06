@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="plugins">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/plugins/ocr.tesseract.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/filter.invisibleelements.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/filter.regex.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/filter.texttransform.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/filter.urllookup.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/parser.docx.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/parser.text.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/filter.multicolumn.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/filter.pagerange.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/filter.headerfooter.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/filter.baselinetable.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/parser.image.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/parser.pdf.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/parser.pdf.config.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/filter.cmappatch.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/filter.hiderotation.zip!/" />
+      <root url="jar://$PROJECT_DIR$/plugins/filter.ocr.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

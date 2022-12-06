@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="reporting">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/reporting/jcommon.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/reporting/reporting.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/reporting/reporting-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/reporting/ReportViewer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/reporting/jfreechartCC.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

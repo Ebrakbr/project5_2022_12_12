@@ -1,0 +1,17 @@
+[changes]
+* Whitespace calculation for small fonts improved
+* Footer position corrected in case the header is missing.
+* A font difference will now be detected in case the design font name is the same, but the actually used font differs due to a missing embedded font
+
+[changes:de]
+* Whitespace-Berechnung für kleine Schriftarten verbessert
+* Die Position der Fußzeile wurde korrigiert, falls die Kopfzeile fehlt.
+* Ein Schriftunterschied wird nun erkannt, wenn der Name der Entwurfsschrift gleich ist, aber die tatsächlich verwendete Schrift aufgrund einer fehlenden eingebetteten Schrift abweicht
+
+[bugfixes]
+
+[bugfixes:de]
+
+[security]
+
+[security:de]

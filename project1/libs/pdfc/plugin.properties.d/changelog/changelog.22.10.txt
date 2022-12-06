@@ -1,0 +1,13 @@
+[changes]
+ * PDF and PNG exports can now be configured to automatically select an output page size that exactly fits to the displayed content or pages. This reduces the blank space on exported pages and is the best option to view the PDFs/PNGs on screen devices.
+
+[changes:de]
+ * Der PDF- und PNG-Export kann nun das Seitenformat automatisch anhand des Inhalts bestimmen. Damit wird der ungenutzte Platz auf den Export-Seiten minimiert und die Darstellung für das Bildschirmlesen optimiert.
+
+[bugfixes]
+
+[bugfixes:de]
+
+[security]
+
+[security:de]

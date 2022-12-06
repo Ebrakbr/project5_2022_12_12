@@ -1,0 +1,15 @@
+[changes]
+ * New option for any type of PDF export to not replace external font references by default fonts. This keeps the export more alike similar to the original files even though font references are discoured for PDF.
+ * Modified handling of overlapping text chunks: Fonts without space character will tolerate larger overlaps without splitting the chunk. Leading spaces will be ignored on overlap.  
+ 
+[changes:de]
+ * Neue Option für alle Arten von PDF-Export, um externe Schriftartenreferenzen nicht durch Standardschriften zu ersetzen. Dadurch bleibt der Export den Originaldateien ähnlicher, auch wenn Schriftreferenzen für PDF verworfen werden.
+ * Geänderte Behandlung von sich überschneidenden Textabschnitten: Schriften ohne Leerzeichen tolerieren nun auch größere Überlappungen, ohne dass der Textabschnitt geteilt wird. Führende Leerzeichen werden bei Überlappungen ignoriert.  
+
+[bugfixes]
+
+[bugfixes:de]
+
+[security]
+
+[security:de]

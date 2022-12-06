@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="inetcore">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/inetcore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,33 @@
+[changes]
+* The rendering output format Microsoft Word (*.docx) is now supported
+* Improved image quality in PDF output format if it is not saved in JPEG or PNG format in the report template.
+* The rendering output format JSON is now supported
+* Rendering text as HTML-Advanced output does not embed images anymore, but downloads and references them. The HMTL-Viewer supports these images even for URLs referenced in the inlined css, e.g. for background images.   
+* Comments on MySQL table columns are no longer used as column alias.
+* Improved performance of date/time parsing functions date/time and datetime in formula
+* Continuous Stacked Bar Chart is now supported
+* ShowValue can now display a value from a formula on simple chart types.
+
+[changes:de]
+* Das Rendering-Ausgabeformat Microsoft Word (*.docx) wird jetzt unterstützt
+* Verbesserte Bildqualität im PDF-Ausgabeformat, wenn es nicht im JPEG- oder PNG-Format in der Berichtsvorlage gespeichert ist.
+* Das Rendering-Ausgabeformat JSON wird jetzt unterstützt
+* Das Rendern von Text als HTML-Advanced-Ausgabe bettet Bilder nicht mehr ein, sondern lädt sie herunter und referenziert sie. Der HMTL-Viewer unterstützt diese Bilder auch für URLs, die in der inlined css referenziert werden, z.B. für Hintergrundbilder.   
+* Kommentare zu MySQL-Tabellenspalten werden nicht mehr als Spaltenalias verwendet.
+* Verbesserte Leistung der Parsing-Funktionen date/time und datetime in Formeln
+* Continuous Stacked Bar Chart wird nun unterstützt
+* Bei einfachen Charttypen kann bei ShowValue nun ein Wert per Formel angezeigt werden.
+
+[bugfixes]
+* Section with enabled "Print at Bottom of Page" was not printed at the end of the page if HTML output format was used and the page before this section was empty.
+* Sorting of Fields did not work in HTML Viewer.
+* Under certain circumstances, narrow blank table rows occurred in XLSX and ODS export when the report contained horizontal lines near other fields and they were not correctly rasterized.
+
+[bugfixes:de]
+* Ein Abschnitt mit aktivierter Option "Am Ende der Seite drucken" wurde nicht am Ende der Seite gedruckt, wenn das HTML-Ausgabeformat verwendet wurde und die Seite vor diesem Abschnitt leer war.
+* Die Sortierung von Feldern funktionierte im HTML-Viewer nicht.
+* Unter bestimmten Umständen traten im XLSX und ODS Export schmale leere Tabellenzeilen auf, wenn der Bericht horizontale Linien in der Nähe anderer Felder enthielt und diese nicht korrekt gerastert wurden.
+
+[security]
+
+[security:de]

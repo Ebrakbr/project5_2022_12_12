@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/REX_1.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/REX_2.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/Stations.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/after_Concat_1.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/after_Concat_sort_1.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/after_Sort_1.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/after_Sort_2.txt" charset="windows-1256" />
+  </component>
+</project>

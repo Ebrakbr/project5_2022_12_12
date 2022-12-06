@@ -1,0 +1,15 @@
+[changes]
+
+[changes:de]
+
+[bugfixes]
+* Fixed embedded fonts for .NET viewer (error message: Could not create font with ID 1).
+
+[bugfixes:de]
+* Eingebettete Schriftarten für .NET Viewer behoben (Fehlermeldung: Schriftart mit ID 1 konnte nicht erstellt werden).
+
+[security]
+* Fixed a thread bug that allowed a user to run single requests in another users security context.
+
+[security:de]
+* Ein Thread-Fehler wurde behoben, der es einem Benutzer ermöglichte, einzelne Anfragen im Sicherheitskontext eines anderen Benutzers auszuführen.

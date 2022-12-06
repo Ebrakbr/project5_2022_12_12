@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="pdfc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/pdfc/pdfc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/pdfc/pdfc-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/pdfc/jbig2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/pdfc/icu4j.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
